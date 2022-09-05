@@ -13,7 +13,7 @@
   "pack_irc" : "",
   "pe1_irc" : 6000,
   "pe2_irc" : 7000,
-  "status_irc" : true,
+  "status_irc" : false,
   
   "note" : "UNITY ADS",
   "id_una" : 101010100110100011100001101110110001011000001100010110100,
